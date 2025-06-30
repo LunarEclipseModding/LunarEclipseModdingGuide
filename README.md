@@ -1,1 +1,1 @@
-# LunarEclipseModdingGuide
+# Lunar Eclipse Modding Guide
